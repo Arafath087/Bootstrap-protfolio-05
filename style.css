@@ -76,7 +76,7 @@ nav {
 .header_content {
     margin-top: 55px;
     h1 {
-        font-size: 6rem;
+        font-size: 5.6rem;
         color: #FFFFFF;
         font-weight: 900;
     }
@@ -93,7 +93,7 @@ nav {
     display: flex;
     background: #fbbe36;
     justify-content: space-between;
-    padding: 1rem;
+    padding: 25px 16px;
     padding-right: 1rem;
     padding-right: 2.6rem;
 }
@@ -113,7 +113,7 @@ nav {
 
 .price_wrap {
     h3 {
-        font-size: 3.8rem;
+        font-size: 2.8rem;
         line-height: 1.1;
         font-weight: 900;
         color: #ffff;
@@ -222,7 +222,7 @@ nav {
 .hero_img img {
     max-width: 600px;
     transform: translateX(-50%);
-    margin-top: 320px;
+    margin-top: 370px;
     margin-left: 100px;
 }
 
