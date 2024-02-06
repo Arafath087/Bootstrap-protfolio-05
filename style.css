@@ -372,6 +372,16 @@ nav {
     }
 }
 
+/* Seller_Responsive_Section_Here */
+
+@media (max-width: 768px){
+    .seller_content {
+        h2 {
+            font-size: 33px;
+        }
+    }
+}
+
 /* Dishes_are_here */
 
 .dishes_content {
@@ -449,6 +459,12 @@ nav {
 /* Dishes_Responsive_Section_Here  */
 
 @media (max-width: 768px){
+    .dishes_content {
+        h2 {
+            font-size: 33px;
+        }
+    }
+    
     .dishes_card {
         display: flex;
         flex-direction: column;
